@@ -66,4 +66,4 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
  ✅  **GitHub Extra Pins**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=Palash-Shah&show_icons=true&theme=radical)](https://github.com/Palash-Shah/MyInfo) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=Palash-Shah&show_icons=true&theme=radical)](https://github.com/Palash-shah/Palash-Shah) 
