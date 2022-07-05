@@ -14,7 +14,7 @@ https://simpleicons.org/
 [![Mail](https://img.shields.io/badge/Gmail-palashshah110@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:palashshah110@gmail.com)
 <br>
 <h2 align='center'><samp><strong>Hi there 👋, I am Palash Shah</strong></samp></h2>
-<h3 align='center'><strong><a href="https://palashcv.ml/" target="_blank">Portfolio🌐</a></strong></h3>
+<h3 align='center'><strong><a href="https://palashcv.tech/" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Software developer | Full-stack JavaScript | React developer | Web developer</p>
 
 <p align='left'>📫My specialties include quickly learning new skills like Programming languages, Problem-solving, Website optimization, and Web Security.</p>
